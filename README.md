@@ -19,24 +19,30 @@ How to use libcyber
 ![image](https://github.com/lionwj/libcyber/assets/132066658/578c90ae-3854-43ab-9ce7-a313553ae72a)
 
 6.	点击本站下载，下载后打开，双击安装程序运行一键安装。如果出现 Smart Screen 蓝屏拦截，点击“高级(更多)信息”=>“仍要运行”。
+ 
  ![image](https://github.com/lionwj/libcyber/assets/132066658/2d028942-1506-4c6a-af47-83816768c63b)
 
 然后
  ![image](https://github.com/lionwj/libcyber/assets/132066658/211562af-c3fc-4dc5-9d39-74c9ab202448)
 
+
 之后选择目标文件夹
+
 ![image](https://github.com/lionwj/libcyber/assets/132066658/06654fa4-ea32-4d58-92ee-bb70de46d3fa)
  
 安装后打开libcyber desktop
 
 7.打开后，输入刚才的用户名和密码就进入了libcyber主页面
+
 ![1111](https://github.com/lionwj/libcyber/assets/132066658/5a0fa585-e0b4-4949-b30c-f9537a55ef37)
 
  
 之后
+ 
  ![image](https://github.com/lionwj/libcyber/assets/132066658/0a1253b9-ad41-4d72-91a1-668c50036a51)
 
 选择线路（建议选择“高速-美国”）
+
 ![image](https://github.com/lionwj/libcyber/assets/132066658/ebea0f15-b9e4-4d5b-93e6-c900719671f1)
 
  
