@@ -13,10 +13,12 @@ How to use libcyber
 
  
 4.	登入后找到“使用方法”中的“app下载及使用教程”
+ 
  ![image](https://github.com/lionwj/libcyber/assets/132066658/5466124b-2beb-48ab-847c-846b529904a9)
 
  
 5.	找到“LibCyber官方客户端”中的“Windows” 选项，单击 
+
 ![image](https://github.com/lionwj/libcyber/assets/132066658/578c90ae-3854-43ab-9ce7-a313553ae72a)
 
 6.	点击本站下载，下载后打开，双击安装程序运行一键安装。如果出现 Smart Screen 蓝屏拦截，点击“高级(更多)信息”=>“仍要运行”。
@@ -24,6 +26,7 @@ How to use libcyber
  ![image](https://github.com/lionwj/libcyber/assets/132066658/2d028942-1506-4c6a-af47-83816768c63b)
 
 然后
+ 
  ![image](https://github.com/lionwj/libcyber/assets/132066658/211562af-c3fc-4dc5-9d39-74c9ab202448)
 
 
